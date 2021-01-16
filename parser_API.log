@@ -1,0 +1,12 @@
+[DEBUG] => Starting new HTTPS connection (1): minfin.com.ua:443
+[DEBUG] => https://minfin.com.ua:443 "GET /cards/ HTTP/1.1" 200 None
+[DEBUG] => Starting new HTTPS connection (1): minfin.com.ua:443
+[DEBUG] => https://minfin.com.ua:443 "GET /cards/?page=1 HTTP/1.1" 200 None
+[DEBUG] => Starting new HTTPS connection (1): minfin.com.ua:443
+[DEBUG] => https://minfin.com.ua:443 "GET /cards/?page=2 HTTP/1.1" 200 None
+[DEBUG] => Starting new HTTPS connection (1): minfin.com.ua:443
+[DEBUG] => https://minfin.com.ua:443 "GET /cards/?page=3 HTTP/1.1" 200 None
+[DEBUG] => Starting new HTTPS connection (1): minfin.com.ua:443
+[DEBUG] => https://minfin.com.ua:443 "GET /cards/?page=4 HTTP/1.1" 200 None
+[DEBUG] => Starting new HTTPS connection (1): minfin.com.ua:443
+[DEBUG] => https://minfin.com.ua:443 "GET /cards/?page=5 HTTP/1.1" 200 None
